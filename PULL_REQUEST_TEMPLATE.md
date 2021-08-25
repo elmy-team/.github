@@ -5,11 +5,6 @@
 
 [Jira Ticket](https://oui-team.atlassian.net/browse/XXX-XXX)
 
-#### Does this introduce a breaking change?
-
-- [ ] Yes
-- [ ] No
-
 ### Pull request type
 
 Please check the type of change your PR introduces:
